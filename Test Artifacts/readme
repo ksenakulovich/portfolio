@@ -9,3 +9,4 @@ Here is more info about the content of this folder:
 The first one should be used on a project where there is no other documentation being kept, which is why it looks verbose and comprehensive. 
 The second one is more concise and is a suitable option on a project with a full set of documents (TCs, well-written requirements etc.)
 2. The 'Kseniya Akulovich - Test Cases for 'MyTastes' file contains examples of test cases for smoke/critical path/extended testing.
+3. For bug reporting examples, please see 'Kseniya Akulovich - Bug reports for 'MyTastes' and two screenshots from JIRA (Bug_Part1 and Bug_Part2).
