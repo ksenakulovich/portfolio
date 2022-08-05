@@ -1,8 +1,11 @@
 All the documentation is written about a fictious web application that I've come up; 'MyTastes' is a web application designed to provide users with an opportunity
 to share their tastes in music, literature, and movies online. There are three modules supposed to be implemented in this product: Audio, Films, and Library.
-The documentation in this folder is about the 'Library' module, provides examples of the standard artifacts to be written 
+The documentation in this folder is about the 'Library' module, it provides some examples of the standard artifacts to be written 
 for such a project and cannot be considered finalized.
 You can find several mockups created by me for this module to make these documents more followable ('List of books in profile' and 'Form to add or edit a book').
+This is how it works: a user gets logged in to their profile => Library and adds new books using the form (see 'Form to add or edit a book') that is available 
+via the 'Add a new book' link at the top of the list of registered books. All the books registered in the profile will be shown in the list in the 'Library' module 
+(see 'List of books in profile'). The user can change a number of books to be shown per page.
 
 Here is more info about the content of this folder: 
 1. There are two checklists: 'Kseniya Akulovich - Checklist for 'MyTastes'_full' and 'Kseniya Akulovich - Checklist for 'MyTastes'_only general titles'. 
