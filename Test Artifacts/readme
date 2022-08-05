@@ -1,1 +1,10 @@
-This folder contains a test plan, a checklist, test cases, bug reports, and a test results report.
+All the documentation is written about a fictious web application that I've come up; 'MyTastes' is a web application designed to provide users with an opportunity
+to share their tastes in music, literature, and movies online. There are three modules supposed to be implemented in this product: Audio, Films, and Library.
+The documentation in this folder is about the 'Library' module, provides examples of the standard artifacts to be written 
+for such a project and cannot be considered finalized.
+You can find several mockups created by me for this module to make these documents more followable.
+
+Here is more info about the content of this folder: 
+1. There are two checklists: 'Kseniya Akulovich - Checklist for 'MyTastes'_full' and 'Kseniya Akulovich - Checklist for 'MyTastes'_only general titles'. 
+The first one should be used on a project where there is no other documentation being kept, which is why it looks verbose and comprehensive. 
+The second one is more concise and is a suitable option on a project with a full set of documents (TCs, well-written requirements etc.)
