@@ -6,12 +6,3 @@ You can find several mockups created by me for this module to make these documen
 This is how it works: a user gets logged in to their profile => Library and adds new books using the form (see 'Form to add or edit a book') that is available 
 via the 'Add a new book' link at the top of the list of registered books. All the books registered in the profile will be shown in the list in the 'Library' module 
 (see 'List of books in profile'). The user can change a number of books to be shown per page.
-
-Here is more info about the content of this folder: 
-1. There are two checklists: 'Kseniya Akulovich - Checklist for 'MyTastes'_full' and 'Kseniya Akulovich - Checklist for 'MyTastes'_only general titles'. 
-The first one should be used on a project where there is no other documentation being kept, which is why it looks verbose and comprehensive. 
-The second one is more concise and is a suitable option on a project with a full set of documents (TCs, well-written requirements etc.)
-2. The 'Kseniya Akulovich - Test Cases for 'MyTastes' file contains examples of test cases for smoke/critical path/extended testing. 
-'Test_Example_JIRA' is a screenshot from JIRA to present my experience in test creation in JIRA.
-3. For bug reporting examples, please see 'Kseniya Akulovich - Bug reports for 'MyTastes' and two screenshots from JIRA (Bug_Part1 and Bug_Part2).
-4. The test plan ('Kseniya Akulovich - Test Plan') covers all the testing activities planned for the project.
